@@ -4,4 +4,4 @@
 ## 提交问题
 主要包括`新功能`,`bug`,`改进`,`建议`等
 
-[提交问题](https://gitee.com/kongkongye/menu/issues)
+[提交问题](https://github.com/kongkongye/menu/issues)
