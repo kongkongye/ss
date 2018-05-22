@@ -29,9 +29,6 @@ layout: default
                     {% include category.html %}
                     </div>
 
-                    <div class="label-card">
-                    {% include tag.html %}
-                    </div>
                 </div>
                 <div class="excerpt">
                     {{post.excerpt}}
@@ -84,7 +81,7 @@ layout: default
             <div class="side ">
                 <div>
                     <i class="fa fa-th-list"></i>
-                   分类 
+                   分类
                 </div>
                 <ul class="content-ul" cate>
                     {% for category in site.categories %}
@@ -100,7 +97,7 @@ layout: default
                 </ul>
             </div>
             <!-- 其他div框放到这里 -->
-            <div class="side">
+            <!-- <div class="side">
                 <div>
                     <i class="fa fa-tags"></i>
                     标签
@@ -142,7 +139,7 @@ layout: default
                       <a href="{{ root_url }}/{{ site.tag_dir }}#{{ tag[0] }}" style="font-size: {{ size }}pt; color: #{{ color }}{{ color }}{{ color }};">{{ tag[0] }}</a>
                     {% endfor %}
                 </div>
-            </div>
+            </div> -->
 
             <!-- <div class="side">
                 <div>

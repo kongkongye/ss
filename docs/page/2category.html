@@ -24,7 +24,6 @@ type: page
                             <a class="title" href="{{ post.url | prepend: site.baseurl }}">{{ post.title }}</a>
 
                             {% include category.html %}
-                            {% include tag.html %}
                         </li>
                         {% endif %}
                     {% endfor %}
@@ -39,7 +38,7 @@ type: page
             <!-- Content -->
             <div class="side content">
                 <div>
-                   目录 
+                   目录
                 </div>
                 <ul id="content-side" class="content-ul">
                     {% for category in site.categories%}

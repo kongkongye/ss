@@ -1,18 +1,21 @@
 ---
 layout: post
-title:  杂物
-categories: 杂物
-tags:
+title:  服务端使用文档
+categories: 教程
 author: kongkongye
 ---
 
 * content
 {:toc}
 
-里面会放置一些乱七八糟的知识点/内容,后面写相关文章的时候可能再从里面收集.
+主要给`服主`查阅,介绍如何在服务端安装与使用此菜单MOD.
 
 
 
+
+## 安装
+
+## 服务器使用
 
 ## 代理服务器(Proxy Server)
 处于OSI模型的会话层,起到防火墙的作用.大多用来连接国际互联网与局域网.

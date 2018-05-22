@@ -24,10 +24,6 @@ layout: default
             {% include category.html %}
             </div>
 
-            <div class="label-card">
-            {% include tag.html %}
-            </div>
-
         </div>
         <hr>
         <article itemscope itemtype="http://schema.org/BlogPosting">
@@ -76,7 +72,7 @@ layout: default
             <!-- Content -->
             <div class="side content">
                 <div>
-                   目录 
+                   目录
                 </div>
                 <ul id="content-side" class="content-ul">
                     {% if hasSimilar.size > 0 %}
