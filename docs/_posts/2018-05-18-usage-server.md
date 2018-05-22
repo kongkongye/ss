@@ -23,11 +23,21 @@ author: kongkongye
 ## 下载
 todo
 
-## 需求
+## 前置需求
 
 #### `java8`
 如果你使用java7或更低的java版本来启动服务端,请升级到java8,
 否则可能无法正常使用此菜单MOD.
+
+#### `Vault`插件
+其中`权限条件`,`无权限条件`需要使用Vault进行权限的检测.
+
+[Vault下载](https://www.spigotmc.org/resources/vault.34315/)
+
+#### `PlaceholderAPI`插件
+也即常说的PAPI变量插件,`服务器全局变量`使用的就是此插件的变量.
+
+[PlaceholderAPI下载](https://www.spigotmc.org/resources/placeholderapi.6245/)
 
 ## 安装
 将下载的插件(以`jar`为后缀的文件)放入`plugins`文件夹
