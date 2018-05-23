@@ -9,11 +9,7 @@ type: page
 * content
 {:toc}
 
-asdfasf
 
 
-
-
-## 截图
 
 asdf
