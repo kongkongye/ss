@@ -1,5 +1,5 @@
 ---
-layout: page
+layout: post
 title: 截图
 permalink: /screenshot/
 icon: image

@@ -1,5 +1,5 @@
 ---
-layout: page
+layout: post
 title: 下载
 permalink: /download/
 icon: download
