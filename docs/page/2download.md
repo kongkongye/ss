@@ -21,3 +21,6 @@ type: page
 
 ## 1.0.0版本
 [百度网盘](https://pan.baidu.com/s/1SrTmMBPKogF_gZKhvY-HOg)
+
+#### 更新日志
+一代版本
