@@ -20,9 +20,6 @@ author: kongkongye
 
 即,不管插件服还是MOD服都能使用此菜单MOD,只要服务端装对应的插件即可.
 
-## 下载
-todo
-
 ## 前置需求
 
 #### `java8`
