@@ -19,6 +19,12 @@ type: page
 ## 全部版本
 [百度网盘](https://pan.baidu.com/s/1sRLddCdn1gdQCKKYiYiT1g)
 
+## 2.0.0版本
+[百度网盘](https://pan.baidu.com/s/1krPGvhU42haZM_YuPEgYRg)
+
+#### 更新日志
+进行各种修复后的二代版本
+
 ## 1.0.0版本
 [百度网盘](https://pan.baidu.com/s/1SrTmMBPKogF_gZKhvY-HOg)
 
