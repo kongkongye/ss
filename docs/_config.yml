@@ -6,12 +6,12 @@
 # 'jekyll serve'. If you change this file, please restart the server process.
 
 # Site settings
-title: 菜单MOD
-brief-intro: 我的世界菜单MOD
-home_title: 菜单MOD
-home_description: 我的世界菜单MOD
+title: 学校风云
+brief-intro: 我的世界学校风云PE服务器
+home_title: 学校风云
+home_description: 我的世界学校风云PE服务器
 baseurl: "" # the subpath of your site, e.g. /blog
-url: "http://menu.kongkongye.com" # the base hostname & protocol for your site
+url: "http://ss.kongkongye.com" # the base hostname & protocol for your site
 
 permalink: /:year/:month/:day/:title/
 
@@ -31,9 +31,9 @@ description_footer: 提示:文章时间只是用来进行文章排序,并非真�
 # 百度统计 id，将统计代码替换为自己的百度统计id，即
 # hm.src = "//hm.baidu.com/hm.js?xxxxxxxxxxxx";
 # xxxxx字符串
-baidu_tongji_id: 59e136831caf84c1bce8491b4bf3949c
+baidu_tongji_id: 866b1e7b3abcf36a0c0a07113836434c
 google_analytics_id: # google 分析追踪id
-changyan_id: cytCV02PO
+changyan_id: cytYp6cOB
 
 # Build settings
 markdown: kramdown

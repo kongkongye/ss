@@ -1,2 +1,2 @@
 ## 主页
-[http://menu.kongkongye.com](http://menu.kongkongye.com)
+[http://ss.kongkongye.com](http://ss.kongkongye.com)
